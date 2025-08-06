@@ -1,0 +1,6 @@
+2025-08-06 20:12:38.461 +03:00 [INF] User profile is available. Using 'C:\Users\mohamed.mikkawy\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-08-06 20:12:38.797 +03:00 [INF] Now listening on: https://localhost:7211
+2025-08-06 20:12:38.799 +03:00 [INF] Now listening on: http://localhost:5075
+2025-08-06 20:12:38.918 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-06 20:12:38.921 +03:00 [INF] Hosting environment: Development
+2025-08-06 20:12:38.923 +03:00 [INF] Content root path: C:\Users\mohamed.mikkawy\Documents\FlapKapVendingMachine\src\FlapKapVendingMachine.WebApi

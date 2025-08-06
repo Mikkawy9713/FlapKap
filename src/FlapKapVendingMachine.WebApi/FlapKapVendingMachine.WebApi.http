@@ -1,0 +1,6 @@
+@FlapKapVendingMachine.WebApi_HostAddress = http://localhost:5075
+
+GET {{FlapKapVendingMachine.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

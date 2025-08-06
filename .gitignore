@@ -1,0 +1,27 @@
+# Ignore build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Visual Studio for Mac
+.vsconfig
+
+# Rider
+.idea/
+
+# Visual Studio folders
+.vs/
+
+# Ignore VS index files
+.vs/**/FileContentIndex/*
